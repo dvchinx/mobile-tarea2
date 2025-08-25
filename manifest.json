@@ -9,12 +9,12 @@
   "orientation": "portrait-primary",
   "icons": [
     {
-      "src": "serpiente.png",
+      "src": "https://github.com/dvchinx/mobile-tarea2/blob/main/serpiente.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "serpiente.png",
+      "src": "https://github.com/dvchinx/mobile-tarea2/blob/main/serpiente.png",
       "type": "image/png",
       "sizes": "512x512"
     }
