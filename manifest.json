@@ -1,0 +1,22 @@
+{
+  "name": "Snake Game",
+  "short_name": "Snake",
+  "description": "Un juego clásico de la serpiente para jugar en tu navegador.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#222222",
+  "theme_color": "#0f0",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "serpiente.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "serpiente.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
