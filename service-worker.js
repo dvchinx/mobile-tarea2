@@ -3,7 +3,7 @@ const CACHE_NAME = 'snake-game-cache-v1';
 const urlsToCache = [
   '/',
   'index.html', // O el nombre de tu archivo HTML
-  'serpiente.png'
+  'https://cdn-icons-png.flaticon.com/128/3895/3895186.png'
 ];
 
 // Evento de instalación: se abre el caché y se guardan los archivos principales
